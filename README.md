@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Fahed Shaikh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5f5a,100:0A66C2&height=200&section=header&text=Fahed%20Shaikh&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Electronics%20%26%20Telecommunication%20Engineer%20%7C%20Embedded%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
-### Electronics & Telecommunication Engineer | Embedded Systems Engineer
-*Bengaluru, India — Embedded C · IoT · CAN Bus · Linux Systems · GPU Computing*
+<a href="https://github.com/Fahedshaikh32">
+<img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+Engineer;IoT+%26+Firmware+Builder;C+%2F+Embedded+C+%2F+CAN+Bus;Learning+CUDA+%26+GPU+Computing;Bengaluru%2C+India&font=Fira+Code&center=true&width=600&height=45&color=1E5F5A&vCenter=true&size=22" />
+</a>
 
 <br/>
 
@@ -45,6 +46,11 @@ This repository is my portfolio: a curated index of my strongest work, along wit
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fahedshaikh32&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahedshaikh32&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahedshaikh32&theme=tokyonight&hide_border=true" />
 
@@ -167,6 +173,8 @@ I'm open to embedded systems and IoT roles, collaborations, and interesting tech
 
 <div align="center">
 
-*If any card on this page fails to load, refresh — it's a free public GitHub-stats service having a slow moment, not this file.*
+*If any card or banner on this page shows a broken icon, give it a minute and refresh — these are free public services that occasionally get busy, and they recover on their own within a few minutes.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1e5f5a&height=100&section=footer" width="100%"/>
 
 </div>
