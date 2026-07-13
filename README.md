@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5f5a,100:0A66C2&height=200&section=header&text=Fahed%20Shaikh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer%20%7C%20Embedded%20Systems&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Fahed Shaikh
 
-<a href="https://github.com/Fahedshaikh32">
-<img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+Engineer;IoT+%26+Firmware+Builder;C+%2F+Embedded+C+%2F+CAN+Bus;Learning+CUDA+%26+GPU+Computing;Bengaluru%2C+India&font=Fira+Code&center=true&width=600&height=45&color=1E5F5A&vCenter=true&size=22" />
-</a>
+### Electronics & Telecommunication Engineer | Embedded Systems Engineer
+*Bengaluru, India — Embedded C · IoT · CAN Bus · Linux Systems · GPU Computing*
 
 <br/>
 
@@ -47,22 +46,9 @@ This repository is my portfolio: a curated index of my strongest work, along wit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fahedshaikh32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahedshaikh32&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahedshaikh32&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fahedshaikh32&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-> If any card above shows a broken image icon, it's a free shared service being temporarily rate-limited — not your file. Refresh the page in a minute, or right-click → "Open image in new tab" to confirm. See the note at the bottom of this README for a permanent, self-hosted fix.
 
 ## 📈 Contribution Activity
 
@@ -179,17 +165,8 @@ I'm open to embedded systems and IoT roles, collaborations, and interesting tech
 
 ---
 
-<details>
-<summary><b>Note: making the stats cards 100% reliable (optional)</b></summary>
+<div align="center">
 
-The stats/trophy images above call free shared services that occasionally get rate-limited under heavy public traffic. If you want them to always load instantly with zero downtime, you can deploy your own private copy in a few clicks:
+*If any card on this page fails to load, refresh — it's a free public GitHub-stats service having a slow moment, not this file.*
 
-1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. Deploy the fork to your own free [Vercel](https://vercel.com/) account (one-click "Import Project")
-3. Replace `github-readme-stats.vercel.app` in this README with your new deployment URL
-
-This is optional — the current setup works fine most of the time and needs no maintenance.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1e5f5a&height=100&section=footer" width="100%"/>
+</div>
