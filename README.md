@@ -47,8 +47,10 @@ This repository is my portfolio: a curated index of my strongest work, along wit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fahedshaikh32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahedshaikh32&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fahedshaikh32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahedshaikh32&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahedshaikh32&theme=tokyonight&hide_border=true" />
 
@@ -56,20 +58,95 @@ This repository is my portfolio: a curated index of my strongest work, along wit
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fahedshaikh32&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fahedshaikh32&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
+> If any card above shows a broken image icon, it's a free shared service being temporarily rate-limited — not your file. Refresh the page in a minute, or right-click → "Open image in new tab" to confirm. See the note at the bottom of this README for a permanent, self-hosted fix.
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahedshaikh32&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fahedshaikh32/Fahedshaikh32/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
+
+</div>
+
+> This animated snake "eats" your contribution graph. It needs a one-time GitHub Action added to your **profile repo** (`Fahedshaikh32/Fahedshaikh32`) to generate and update it daily — see [`snake.yml`](./snake.yml) included in this repo, and the setup steps below.
+
+<details>
+<summary><b>How to activate the snake animation (2-minute setup)</b></summary>
+
+1. Copy the included [`snake.yml`](./snake.yml) file into `.github/workflows/snake.yml` in your **profile repository** (`Fahedshaikh32/Fahedshaikh32` — create it if it doesn't exist yet; a repo named exactly after your username gets shown on your GitHub profile page).
+2. Commit and push it. Go to the **Actions** tab of that repo and manually run the "Generate Snake" workflow once (it also runs automatically every 24 hours after that).
+3. It will create an `output` branch containing the generated SVG — the image link above will then load automatically.
+
+</details>
+
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Raspberry Pi Based Farming Robot**](https://github.com/Fahedshaikh32/Raspberry-Pi-Based-Farming-Robot) | An IoT-enabled smart farming robot combining a Raspberry Pi Pico W and ESP32-CAM with Firebase and CNN-based image processing for real-time soil monitoring, plant disease detection, and crop recommendation. | Raspberry Pi Pico W, ESP32-CAM, Firebase, CNN |
-| [**CAN-Based Automotive Dashboard**](https://github.com/Fahedshaikh32/CAN-Based-Automotive-Dashboard) | A simulated multi-ECU automotive dashboard built on the PIC18F4580, communicating over CAN Bus to monitor and display real-time vehicle parameters. | Embedded C, PIC18F4580, CAN Bus |
-| [**TFTP Client-Server**](https://github.com/Fahedshaikh32/TFTP-Client-Server) | A from-scratch TFTP implementation over UDP sockets following RFC 1350, with file transfer, ACK handling, retransmission, and error management. | C, UDP Sockets, RFC 1350 |
-| [**Mini Shell (C)**](https://github.com/Fahedshaikh32/Mini-Shell-C) | A minimal Linux shell supporting process creation, signal handling, pipes, and job control — built from first principles. | C, Linux, Process/Signal Handling |
-| [**Steganography**](https://github.com/Fahedshaikh32/Steganography) | Image-based steganography that hides and extracts secret text inside images using the Least Significant Bit (LSB) technique. | C, Image Processing |
-| [**Arbitrary Precision Calculator**](https://github.com/Fahedshaikh32/Arbitrary-Precision-Calculator) | A high-performance calculator supporting add, subtract, multiply, and divide on integers of virtually unlimited size, implemented with a doubly linked list. | C, Data Structures |
+<table>
+<tr>
+<td width="30%"><a href="https://github.com/Fahedshaikh32/Raspberry-Pi-Based-Farming-Robot"><b>🌱 Raspberry Pi Based Farming Robot</b></a></td>
+<td width="50%">An IoT-enabled smart farming robot combining a Raspberry Pi Pico W and ESP32-CAM with Firebase and CNN-based image processing for real-time soil monitoring, plant disease detection, and crop recommendation.</td>
+<td width="20%">
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/-CNN-5C3EE8?logo=opencv&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Fahedshaikh32/CAN-Based-Automotive-Dashboard"><b>🚗 CAN-Based Automotive Dashboard</b></a></td>
+<td>A simulated multi-ECU automotive dashboard built on the PIC18F4580, communicating over CAN Bus to monitor and display real-time vehicle parameters.</td>
+<td>
+<img src="https://img.shields.io/badge/-Embedded%20C-00599C?logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-PIC18F4580-informational"/><br/>
+<img src="https://img.shields.io/badge/-CAN%20Bus-orange"/>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Fahedshaikh32/TFTP-Client-Server"><b>📡 TFTP Client-Server</b></a></td>
+<td>A from-scratch TFTP implementation over UDP sockets following RFC 1350, with file transfer, ACK handling, retransmission, and error management.</td>
+<td>
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-UDP%20Sockets-blueviolet"/><br/>
+<img src="https://img.shields.io/badge/-RFC%201350-lightgrey"/>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Fahedshaikh32/Mini-Shell-C"><b>🐧 Mini Shell (C)</b></a></td>
+<td>A minimal Linux shell supporting process creation, signal handling, pipes, and job control — built from first principles.</td>
+<td>
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/-Signals%20%2F%20Pipes-yellowgreen"/>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Fahedshaikh32/Steganography"><b>🔐 Steganography</b></a></td>
+<td>Image-based steganography that hides and extracts secret text inside images using the Least Significant Bit (LSB) technique.</td>
+<td>
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Image%20Processing-ff69b4"/>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Fahedshaikh32/Arbitrary-Precision-Calculator"><b>🔢 Arbitrary Precision Calculator</b></a></td>
+<td>A high-performance calculator supporting add, subtract, multiply, and divide on integers of virtually unlimited size, implemented with a doubly linked list.</td>
+<td>
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Data%20Structures-9cf"/>
+</td>
+</tr>
+</table>
 
 ## 📁 Other Notable Work
 
@@ -99,5 +176,20 @@ I'm open to embedded systems and IoT roles, collaborations, and interesting tech
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-2ea44f?logo=googlechrome&logoColor=white)](https://fahed-shaikh-foxlbig.gamma.site/)
 
 </div>
+
+---
+
+<details>
+<summary><b>Note: making the stats cards 100% reliable (optional)</b></summary>
+
+The stats/trophy images above call free shared services that occasionally get rate-limited under heavy public traffic. If you want them to always load instantly with zero downtime, you can deploy your own private copy in a few clicks:
+
+1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. Deploy the fork to your own free [Vercel](https://vercel.com/) account (one-click "Import Project")
+3. Replace `github-readme-stats.vercel.app` in this README with your new deployment URL
+
+This is optional — the current setup works fine most of the time and needs no maintenance.
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1e5f5a&height=100&section=footer" width="100%"/>
